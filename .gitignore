@@ -1,0 +1,15 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+*.tar.gz
+
+# macOS system file
+.DS_Store
+
+# Public static files (if built/generated)
+server/public/
+
+# Vite config variations
+vite.config.ts.*
